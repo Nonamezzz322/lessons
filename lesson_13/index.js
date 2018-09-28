@@ -41,3 +41,11 @@
 // 	}
 // 	return array.filter((a, key) => !== maxI);
 // }
+
+
+// function timer(name, sec) { //консоль лог таймер
+// 	console.log(name + sec);
+// 	if (sec > 0){
+// 		setTimeout(() => timer(name, sec - 1), 1000);
+// 	}
+// }
